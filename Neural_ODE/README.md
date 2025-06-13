@@ -1,0 +1,1 @@
+Aply Neural ODE to SIR model
